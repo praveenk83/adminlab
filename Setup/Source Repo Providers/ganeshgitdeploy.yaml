@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:sXLzh8lRTz2T0-lJWIg3kw
+url: https://github.com/gsolai/adminlab
+urlType: REPO
+username: git
