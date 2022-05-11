@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:2woWkupeRyiQcC4w5ovAag
+url: https://github.com/sang2628/adminlab.git
+urlType: REPO
+username: sang2628
